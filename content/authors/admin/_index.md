@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Luigi Faino
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate professor in Plant Pathology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Rome "Sapienza" 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
