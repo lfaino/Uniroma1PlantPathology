@@ -18,6 +18,7 @@ content:
   user_groups:
   - Associate Professor
   - Researchers
+  - Technician
   - PhD Stuendens
   - Grad Students
   - Visitors
