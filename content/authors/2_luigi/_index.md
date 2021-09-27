@@ -25,9 +25,12 @@ interests:
 
 education:
   courses:
+  - course: Post-Doc in Phytopathology
+    institution: Wageningen University and Research
+    year: "2011-2016"
   - course: Post-Doc in Plant Breeding
     institution: Wageningen University and Research
-    year: "2006 - 2011"
+    year: "2006-2011"
   - course: PhD in Plant biotechnology
     institution: University of Naples "Federico II"
     year: 2008
