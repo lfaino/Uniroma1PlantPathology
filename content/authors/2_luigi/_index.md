@@ -25,12 +25,17 @@ interests:
 
 education:
   courses:
+  - course: Post-Doc in Plant Breeding
+    institution: Wageningen University and Research
+    year: "2006 - 2011"
   - course: PhD in Plant biotechnology
     institution: University of Naples "Federico II"
     year: 2008
   - course: Degree in Plant biotechnology
     institution: University of Naples "Federico II"
     year: 2004
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
