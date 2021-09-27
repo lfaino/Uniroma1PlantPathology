@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include lipid signals in plant-pathogen interaction and mycotoxins.
 
 interests:
-- lipid signals
-- mycotoxins
-- lab on chip
+- Lipid signals
+- Mycotoxins
+- Lab on chip
 
 education:
   courses:

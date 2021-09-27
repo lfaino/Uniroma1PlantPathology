@@ -15,17 +15,17 @@ font_size: L
 site_type: Organization
 local_business_type: ''
 org_name: 'Laboratory Plant Pathology'
-description: My laboratory  description.
+description: My laboratory description.
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: 
+email:
 phone: +31 02 49 91 2433 - 2196
 address:
-  street: Piazzale Aldo Moro 5 
+  street: Piazzale Aldo Moro 5
   city: Roma
-  region: 
+  region:
   postcode: '00141'
   country:  Italy
   country_code: IT

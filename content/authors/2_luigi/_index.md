@@ -17,7 +17,10 @@ organizations:
 bio: My research interests include effector biology in fungi and pathogenomics.
 
 interests:
-- effector
+- Effector
+- Comparative genomics
+- Effector biogenesis
+- Pathogen detection 
 
 
 education:
