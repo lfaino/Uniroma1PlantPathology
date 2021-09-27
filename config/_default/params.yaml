@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: earth
 day_night: false
 font: native
 font_size: L
@@ -14,25 +14,25 @@ font_size: L
 
 site_type: Organization
 local_business_type: ''
-org_name: ''
-description: My research group description.
+org_name: 'Laboratory Plant Pathology'
+description: My laboratory  description.
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: 
+phone: +31 02 
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Piazzale Aldo Moro 5 
+  city: Roma
+  region: 
+  postcode: '00141'
+  country:  Italy
+  country_code: IT
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '41.90280'
+  longitude: '12.51717'
+directions: Enter Building CU022 and take the stairs to Office 201 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'

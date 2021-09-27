@@ -11,7 +11,7 @@ role: Associate Professor in Plant Pathology
 # Organizations/Affiliations
 organizations:
 - name: University of Rome "Sapienza" 
-  url: ""
+  url: "http://www.uniroma1.it"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include effector biology in fungi and pathogenomics.
@@ -23,15 +23,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Plant biotechnology
+    institution: University of Naples "Federico II"
     year: 2008
+  - course: Degree in Plant biotechnology
+    institution: University of Naples "Federico II"
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,15 +38,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:luigi.faino@uniroma1.it'
+- icon: linkedin
+  icon_pack: fab
+  link: 'https://www.linkedin.com/in/luigifaino'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/lfaino
-- icon: google-scholar
+  link: 'https://twitter.com/lfaino'
+- icon: scopus
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'https://www.scopus.com/authid/detail.uri?authorId=35344734600'
 - icon: github
   icon_pack: fab
-  link: https://github.com/lfaino
+  link: 'https://github.com/lfaino'
+- icon: university
+  icon_pack: fas
+  link: 'https://corsidilaurea.uniroma1.it/en/users/luigifainouniroma1it'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "luigi.faino@uniroma1.it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -65,8 +68,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Associate Professor
+
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
