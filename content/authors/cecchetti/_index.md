@@ -54,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- Technician
 ---
 The work in the previous lab focuses on the hormonal control of reproductive organ development in higher plants and mechanisms of tolerance and accumulation of heavy metals in model species.
 In particular on the study of the development of Arabidopsis reproductive organs by phenotypic, molecular analyses and microscopic techniques.
