@@ -19,8 +19,8 @@ bio: My research interests include Molecular Biology and Pathogenicity Tests.
 interests:
 - Hormone's role in higher plants.
 - BCA
-- Trametes versicolor
-- A. flavus
+- *Trametes versicolor*
+- *Aspergillus flavus*
 
 education:
   courses:
