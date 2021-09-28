@@ -19,7 +19,7 @@ content:
   - Associate Professor
   - Researchers
   - Technician
-  - PhD Stuendens
+  - PhD Student
   - Grad Students
   - Visitors
   - Alumni
