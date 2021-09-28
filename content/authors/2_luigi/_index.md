@@ -83,4 +83,10 @@ user_groups:
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-Luigi Faino graduated in Pant Biotechnology at the University of Naples "Federico II" in 2003 and obtained his PhD in Plant Biotechnology in 2008 at the same university. In 2006, he moved started to work at the Wageningen University and Research in the Laboratory of Plant Breeding. In 2011, he moved from the Plant Breeding Laboratory to the Laboratory of Phytopathology where he started his bioinformatics training and started to work on fungal genomics. In 2016, he worked for about 1.5 years at Bayer Crop Science as bioinformatician. Since December 2017, he is researcher in Molecular Plant at the Environmental Biology Department of “Sapienza“ University of Rome.His studies focus on the Verticillium-tomato interaction, soil born pathogens and their interaction with plants and fungal genomics with an attention on genome assembly and gene prediction.
+Luigi Faino graduated in Pant Biotechnology at the University of Naples "Federico II" in 2003 and obtained his PhD in Plant Biotechnology 
+in 2008 at the same university. In 2006, he moved started to work at the Wageningen University and Research in the Laboratory of Plant Breeding. 
+In 2011, he moved from the Plant Breeding Laboratory to the Laboratory of Phytopathology where he started his bioinformatics training 
+and started to work on fungal genomics. In 2016, he worked for about 1.5 years at Bayer Crop Science as bioinformatician. 
+Since December 2017, he is researcher in Molecular Plant at the Environmental Biology Department of “Sapienza“ University of Rome.
+His studies focus on the Verticillium-tomato interaction, soil born pathogens and their interaction with plants and fungal genomics 
+with an attention on genome assembly and gene prediction.

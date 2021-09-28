@@ -70,6 +70,13 @@ user_groups:
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-Massimo Reverberi graduated cum laude in Biology in 1996 and obtained his PhD in Botany in 2001 in Sapienza, Università di Roma, where he is currently associate Professor in Molecular Plant Pathology and from 2009, a permanent member of the PhD school in in Environmental and Evolutionary Biology.
-His studies focus on the multiple interactions environment-plant-pathogens in particular regarding the relation among oxidative stress, lipid signals and the biosynthesis of several mycotoxins in different pre- and post-harvest fungal pathogens.
-He participated to several European project on the control of the biosynthesis of some mycotoxins in different foodstuffs and on the application of the integrated control against fungi responsible for post-harvest spoilages. He was coordinator in several Research Unit of National Project among which one funded by MIUR on the use of PUFA from Antarctic fungi as feed additives. Massimo Reverberi has authored or co-authored almost 60 peer-reviewed, ISI-indexed publications on various aspects of plant pathology, mycology and microbiology (Hi17) and attended as speaker several International Congresses.
+Massimo Reverberi graduated cum laude in Biology in 1996 and obtained his PhD in Botany in 2001 in Sapienza, Università di Roma, 
+where he is currently associate Professor in Molecular Plant Pathology and from 2009, a permanent member of the PhD school in in Environmental 
+and Evolutionary Biology. His studies focus on the multiple interactions environment-plant-pathogens in particular 
+regarding the relation among oxidative stress, lipid signals and the biosynthesis of several mycotoxins in different 
+pre- and post-harvest fungal pathogens. He participated to several European project on the control of the 
+biosynthesis of some mycotoxins in different foodstuffs and on the application of the integrated control against fungi 
+responsible for post-harvest spoilages. He was coordinator in several Research Unit of National Project among which one funded 
+by MIUR on the use of PUFA from Antarctic fungi as feed additives. Massimo Reverberi has authored or co-authored almost 60 
+peer-reviewed, ISI-indexed publications on various aspects of plant pathology, mycology and microbiology (Hi17) and attended 
+as speaker several International Congresses.
