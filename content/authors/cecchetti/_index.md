@@ -3,10 +3,10 @@
 title: Valentina Cecchetti
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Lab technician
+role: Technician
 
 # Organizations/Affiliations
 organizations:
@@ -46,7 +46,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "valentina.cecchetti@uniroma1.it"
-"
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -56,6 +56,10 @@ highlight_name: false
 user_groups:
 - Technician
 ---
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
 The work in the previous lab focuses on the hormonal control of reproductive organ development in higher plants and mechanisms of tolerance and accumulation of heavy metals in model species.
 In particular on the study of the development of Arabidopsis reproductive organs by phenotypic, molecular analyses and microscopic techniques.
 Current work focuses on Bio control agent and fungal metagenomics. 
