@@ -1,5 +1,5 @@
 ---
-title: [*D*] gene in [*Fusarium oxysporum*] 
+title: '*D* gene in *Fusarium oxysporum*' 
 
 event: Wowchemy Conference
 event_url: https://example.org
