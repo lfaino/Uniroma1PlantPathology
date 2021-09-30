@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: earth
+theme: minimal
 day_night: false
 font: native
 font_size: L
@@ -13,14 +13,14 @@ font_size: L
 # SEO
 
 site_type: Organization
-local_business_type: ''
+local_business_type: 'Accademic'
 org_name: 'Laboratory Plant Pathology'
 description: My laboratory description.
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email:
+email: luigi.faino@uniroma1.it
 phone: +39 02 49 91 2433 - 2196
 address:
   street: Piazzale Aldo Moro 5
