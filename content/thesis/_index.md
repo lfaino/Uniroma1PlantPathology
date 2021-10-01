@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Available thesis projects 
 
 # View.
 #   1 = List
