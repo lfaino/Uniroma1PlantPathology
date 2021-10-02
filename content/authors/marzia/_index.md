@@ -48,7 +48,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: “marzia.beccaccioli@uniroma1.it"
+email: "marzia.beccaccioli@uniroma1.it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

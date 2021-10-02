@@ -1,5 +1,5 @@
 ---
-title: Current Financed Projects
+title: Current Financed Research Projects 
 
 # View.
 #   1 = List
