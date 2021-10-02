@@ -22,6 +22,8 @@ interests:
 - Effector biogenesis
 - Pathogen detection 
 
+skills:
+- R
 
 education:
   courses:

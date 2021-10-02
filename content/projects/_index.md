@@ -1,6 +1,7 @@
 ---
-title: Current Financed Research Projects 
+title: On Going Research Projects 
 
+#image : "static/media/file.jpg"
 # View.
 #   1 = List
 #   2 = Compact
