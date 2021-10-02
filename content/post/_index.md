@@ -1,5 +1,5 @@
 ---
-title: Current Financed Projects
+title: News
 
 # View.
 #   1 = List
