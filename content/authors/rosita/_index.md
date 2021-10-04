@@ -59,3 +59,11 @@ user_groups:
 - PhD Student
 ---
 
+Rosita Silvana Fratini graduated cum laude in Cell Biology and Technology at the University of Rome “Sapienza” in 2020, 
+with a thesis based on the study of supernumerary chromosomes in Fusarium species.
+After her MSc degree she took part of an Erasmus+ Traineeship program for six months at Wageningen Plant Research. 
+She collaborated with the group of Biointeractions & Plant Heath in a project on plant pathogen diagnostics using 
+Oxford Nanopore sequencing, supervised by Dr. Cor Schoen. After her traineeship, she worked as a research collaborator 
+at “Sapienza” University of Rome and now she is starting a PhD in Botany. Currently her studies are involved in virulence
+ factors in the *Fusarium verticillioides*-maize interaction.
+
