@@ -1,7 +1,6 @@
 ---
-title: On Going Research Projects 
+title: Available projects 
 
-#image : "static/media/file.jpg"
 # View.
 #   1 = List
 #   2 = Compact

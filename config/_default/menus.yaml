@@ -6,6 +6,9 @@
 main:
   - name: News
     url: post
+    weight: 10
+  - name: Skills
+    url: skills
     weight: 20
   - name: People
     url: people
@@ -22,3 +25,4 @@ main:
   - name: Contact
     url: contact
     weight: 70
+
