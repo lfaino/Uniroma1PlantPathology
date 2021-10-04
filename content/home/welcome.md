@@ -19,4 +19,7 @@ design:
 
 <br>
 
-The **Plant Pathology Laboratory** is part of the Department of Environmental biology at the University of Rome "Sapienza" and it was created by Prof. Fanelli in .... This laboratory is a center of excellence for Molecular Plant Pathology research, teaching, and practice since its founding.
+The **Plant Pathology Laboratory** is part of the Department of Environmental biology at the University of Rome "Sapienza"
+and it was created by Prof. Fanelli in 2001. This laboratory is a center of excellence for 
+Molecular Plant Pathology research, teaching, and practice since its founding. 
+ 
