@@ -1,5 +1,5 @@
 ---
-title: Available projects 
+title: Funded projects 
 
 # View.
 #   1 = List
