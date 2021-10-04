@@ -6,7 +6,7 @@ title: Andrea Doddi
 superuser: true
 
 # Role/position
-role: PhD student in Plant Pathology
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
