@@ -11,7 +11,7 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: University of Rome "Sapienza" 
-  url: "https://web.uniroma1.it/dip_dba302/"
+  url: "http://www.uniroma1.it"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Started from Plant Physiology and now sealing Molecular Plant Pathology with a focus on effector molecules in Fusarium oxysporum.
