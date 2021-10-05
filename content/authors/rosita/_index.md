@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include plant pathogenic fungi and genomics.
 
 interests:
-- plant-pathogen interaction
-- molecular biology
-- genome sequencing
+- Plant-pathogen interaction
+- Molecular biology
+- Genome sequencing
 
 education:
   courses:

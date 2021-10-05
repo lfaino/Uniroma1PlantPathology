@@ -71,6 +71,7 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "luigi.faino@uniroma1.it"
 
