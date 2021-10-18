@@ -111,7 +111,7 @@ The project includes a period of 6 months each in company reported below:
 
 ***Requirements:***
 
-At least one Post-Doc in one of the following a fields:
+At least one Post-Doc in one of the following fields:
 - plant pathology,
 - botanic
 - plant physiology
