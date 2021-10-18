@@ -39,16 +39,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:massimo.reverberi@uniroma1.it'
-- icon: linkedin
-  icon_pack: fab
-  link: 'https://www.linkedin.com/in/massimoreverberi'
-- icon: twitter
-  icon_pack: fab
-  link: 'https://twitter.com/mreverberi'
 - icon: scopus
   icon_pack: ai
   link: 'https://www.scopus.com/authid/detail.uri?authorId=6603452320'
-- icon: github
+- icon: linkedin
   icon_pack: fab
   link: 'https://www.linkedin.com/in/massimo-reverberi-460b6345/'
 # Link to a PDF of your resume/CV from the About widget.
