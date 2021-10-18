@@ -25,7 +25,7 @@ abstract:
 publishDate: "2021-10-15T00:00:00Z"
 
 
-authors: [luigi]
+authors: [luigi, max]
 tags: []
 
 # Is this a featured talk? (true/false)
