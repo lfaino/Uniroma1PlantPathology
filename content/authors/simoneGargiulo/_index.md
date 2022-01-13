@@ -17,9 +17,10 @@ organizations:
 bio: My research interests include the individuation of new tools for crop sustainable management. 
 
 interests:
-    • Genomic comparative
-    • Plant protection
-    • Biological control
+- Genomic comparative
+- Plant protection
+- Biological control
+
 education:
   courses:  
   - course: Degree in Environmental Monitoring and Recovery
