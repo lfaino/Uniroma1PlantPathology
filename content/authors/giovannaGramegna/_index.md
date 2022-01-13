@@ -6,7 +6,7 @@ title: Giovanna Gramegna
 superuser: false
 
 # Role/position
-role: Researcher (non era in rosso, ma ho immaginato di doverlo cambiare)
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -24,18 +24,14 @@ interests:
 education:
   courses:  
   - course: Bachelor’s degree in Biological Sciences
-Institution: University of Rome “Sapienza”
-Year: 2009
+    institution: University of Rome “Sapienza”
+    year: 2009
   - course: Master’s Degree in Applied Cellular Biology
-Institution: University of Rome “Sapienza”
-Year: 2010
-- course: PhD in Botanical Sciences
-Institution: University of Rome “Sapienza”
-Year: 2014
-
-
-
-
+    institution: University of Rome “Sapienza”
+    year: 2010
+  - course: PhD in Botanical Sciences
+    institution: University of Rome “Sapienza”
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Phd Student
+- Researcher
 
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
