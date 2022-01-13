@@ -35,7 +35,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: researchgate
-  icon_pack: fas 
+  icon_pack: fab 
   link: https://www.researchgate.net/profile/Simona-Gargiulo
 - icon: linkedin
   icon_pack: fab
