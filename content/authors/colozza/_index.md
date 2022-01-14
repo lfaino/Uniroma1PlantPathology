@@ -51,7 +51,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email:deborah.colozza@uniroma1.it
+email: "deborah.colozza@uniroma1.it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
