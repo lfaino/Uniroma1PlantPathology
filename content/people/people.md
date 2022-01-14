@@ -18,14 +18,14 @@ content:
   user_groups:
   - Associate Professor
   - Researcher
-  - Technician
   - PhD Student
+  - Technician
   - Grad Students
   - Visitors
   - Alumni
 design:
-  show_interests: false
+  show_interests: true
   show_role: true
-  show_social: false
+  show_social: true
   show_skills: true
 ---
