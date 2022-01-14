@@ -6,7 +6,7 @@ title: Simona Gargiulo
 superuser: false
 
 # Role/position
-role: Phd Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
