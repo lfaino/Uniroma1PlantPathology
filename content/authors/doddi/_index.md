@@ -55,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "doddi.1710387@studenti.uniroma1.it"
+email: "andrea.doddi@uniroma1.it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
