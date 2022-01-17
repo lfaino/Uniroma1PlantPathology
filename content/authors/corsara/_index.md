@@ -25,9 +25,10 @@ education:
   - course: MSc in Ecobiology
     institution: University of Rome “Sapienza”
     year: 2021
-- course: BSc in Environmental Sciences
-  institution: University of Rome “Sapienza”
-  year: 2019
+  - course: BSc in Environmental Sciences
+    institution: University of Rome “Sapienza”
+    year: 2019
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
