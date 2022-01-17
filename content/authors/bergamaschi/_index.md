@@ -26,10 +26,10 @@ interests:
 
 education:
   courses: 
-  - courses: MSc in Agricultural and Environmental Sciences
+  - course: MSc in Agricultural and Environmental Sciences
     institution: University of Tuscia, Viterbo
     year: 2019
-  - course: BSc in in Agricultural and Environmental Sciences
+  - course: BSc in Agricultural and Environmental Sciences
     institution: University of Tuscia, Viterbo
     year: 2017
 
