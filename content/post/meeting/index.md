@@ -2,7 +2,7 @@
 title: Europen Fusarium Seminars 16
 
 event: Meeting
-#event_url: https://example.org
+event_url: https://www.efs16.it/
 
 location: Marini Bettolo 
 address:
