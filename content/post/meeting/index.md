@@ -74,3 +74,5 @@ Historically, the European Fusarium Seminars is a pivotal meeting where several 
 The role of Fusarium secondary metabolites in Fusarium-plant interactions is still elusive and new advancement in the field will be discussed. Different aspects of Fusarium mycotoxins like innovative analytical approaches, toxicology, metabolism and remediation will be presented and new insights into classical and emerging Fusarium mycotoxins and toxin metabolism will be highlighted.
 
 Recently, many Fusarium species are the cause of Fusariosis in humans highlighting the importance of this topic for the future. Additionally, some Fusarium species are used in different fields like source of edible proteins and biocontrol agents. These new biotechnological approaches will be the focus of a session in the EFS16 meeting.
+
+To known more visit http://www.efs16.it
