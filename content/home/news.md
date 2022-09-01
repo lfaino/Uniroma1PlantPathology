@@ -15,7 +15,7 @@ content:
     exclude_featured: false
     publication_type: ""
     tag: ""
-  offset: 1
+  offset: 0
   order: desc
   page_type: post
 design:
