@@ -62,3 +62,15 @@ projects:
 
 #Further event details, including page elements such as image galleries, can be added to the body of this page.
 ---
+
+"Dear Fusarium community,
+
+As local organizing committee of the “16th European Fusarium Seminar“, we are very delighted to invite you to the EFS16 which will take place from June 12-15, 2023, at Sapienza University of Rome, Italy.
+
+The EFS16 will be an excellent opportunity to present and discuss the progress made in all fields related to Fusarium research, ranging from plant pathology to medical research and from mycotoxin research to mitigation strategies.
+
+Historically, the European Fusarium Seminars is a pivotal meeting where several aspects of Fusarium biology, epidemiology and new application are discussed. Fusarium genomics and virulence mechanisms in different host will be extensively discussed and population genetics and diversity will be a key aspect to debate considering the new insight into the organization of the Fusarium genera. As always, new insight in host resistance genomics, genetics and plant breeding will be deeply reviewed.
+
+The role of Fusarium secondary metabolites in Fusarium-plant interactions is still elusive and new advancement in the field will be discussed. Different aspects of Fusarium mycotoxins like innovative analytical approaches, toxicology, metabolism and remediation will be presented and new insights into classical and emerging Fusarium mycotoxins and toxin metabolism will be highlighted.
+
+Recently, many Fusarium species are the cause of Fusariosis in humans highlighting the importance of this topic for the future. Additionally, some Fusarium species are used in different fields like source of edible proteins and biocontrol agents. These new biotechnological approaches will be the focus of a session in the EFS16 meeting."
