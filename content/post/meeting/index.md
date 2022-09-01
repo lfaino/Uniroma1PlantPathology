@@ -12,17 +12,17 @@ address:
   postcode: '00185'
   country: Italy
 
-summary: Meet Nanopore
+summary: Europen Fusarium Seminars 16
 abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-06T14:00:00Z"
-date_end: "2021-10-06T15:00:00Z"
-all_day: false
+date: "2023-06-12T14:00:00Z"
+date_end: "2023-06-15T15:00:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-10-01T00:00:00Z"
+publishDate: "2022-09-01T00:00:00Z"
 
 authors: [luigi]
 tags: []
