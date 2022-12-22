@@ -26,6 +26,6 @@ design:
     text_color_light: true
   spacing:
     padding: ["0", "0", "0", "0"]
-# advanced:
-#  css_class: fullscreen
+advanced:
+ css_class: fullscreen
 ---
